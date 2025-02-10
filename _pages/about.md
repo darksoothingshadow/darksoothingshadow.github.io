@@ -3,26 +3,22 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+### Who I am
+ - Book omnivore
+ - Minimalist
+ - Technology enthusiast
+ - Language explorer
 
-### Features
+### What I do
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+#### 🤖 Automate language learning
 
-### Screenshot
+- Scrape audio for 3000 words of Serbian vocabulary
+- Build a database with card details
+- Bulk import into Anki
+- Enjoy your learning journey!
 
-![Screenshot](screenshot.png)
+#### 🏠 Find your ideal home
+- Utilize a web scraper to "watch" sreality.cz for new estates
+- Save the data into a CSV file
+- Schedule a cron job to send the results to your girlfriend
