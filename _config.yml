@@ -13,6 +13,11 @@ author:
   url:          https://holekdom.me
   email:        holekdom@gmail.com
 
+# Profile information
+profile:
+  github: https://github.com/darksoothingshadow
+  linkedin: https://www.linkedin.com/in/dominikholek/0
+
 # Build settings
 markdown:       kramdown
 include:
