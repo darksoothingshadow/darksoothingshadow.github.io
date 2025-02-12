@@ -3,3 +3,15 @@
 ---
 
 @import 'tale';
+
+#profile_icons {
+  display: flex;
+  justify-content: center;
+}
+
+.profile_icon {
+  
+  width: px;
+  height: 32px;
+  margin: 0 8px;
+}

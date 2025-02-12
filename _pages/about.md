@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Dominik"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+One thing always able to capture my restless mind is a good story. Once I read it, there's a new version emerging within me. The only way to capture it is to share it. Here I'll attempt to stand on top of the giants by reliving their rise and downfalls.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+### I am 
+- a minimalist
+- a passionate coder
+- a book omnivore
+  
+Are you ready to continue the journey with me?
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+<div style="text-align: center;">
+    <h3>Contacts</h3>
+    <div id="profile_icons">
+        <a class="profile_icon" href="https://github.com/darksoothingshadow">{% include svg/github-brands-solid.svg %}</a>
+        <a class="profile_icon" href="https://www.linkedin.com/in/dominikholek/">{% include svg/linkedin-brands-solid.svg %}</a>
+    </div>
+</div>
