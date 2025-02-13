@@ -5,14 +5,14 @@ author: "Dominik"
 permalink: /about/
 ---
 
-One thing always able to capture my restless mind is a good story. Once I read it, there's a new version emerging within me. The only way to capture it is to share it. Here I'll attempt to stand on top of the giants by reliving their rise and downfalls.
+One thing always able to capture my restless mind is a good story. Once I read it, my own interpretation emerges. A new kind of story, with new insights to be drawn from. This blog presents an attempt to stand on top of the giants by learning from their rises and downfalls.
 
-### I am 
+### Who am I? 
 - a minimalist
 - a passionate coder
-- a book omnivore
+- a bookworm
   
-Are you ready to continue the journey with me?
+#### Are you ready to continue the journey with me?
 
 <div style="text-align: center;">
     <h3>Contacts</h3>
